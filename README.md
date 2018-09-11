@@ -1,0 +1,2 @@
+# kurapy
+Kuramoto Model
